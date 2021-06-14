@@ -1,0 +1,50 @@
+.card {
+  background-color: #fff;
+  min-width: 300px;
+  padding: 44px 24px;
+  box-shadow: 0 0 4px rgba(200, 200, 200, 0.5);
+}
+
+.header {
+  margin: 0;
+  margin-bottom: 24px;
+  font-weight: 800;
+}
+
+.enroll-btn {
+  width: 100%;
+  padding: 14px;
+  font-size: 18px;
+  background-color: #ec5252;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  box-shadow: 0 0 4px rgba(32, 32, 32, 0.3);
+  transition: all 0.3s ease;
+}
+
+.enroll-btn:hover {
+  background-color: #ff5757;
+}
+
+.includes-item {
+  line-height: 1.5;
+}
+
+.description {
+  text-align: center;
+  font-weight: 800;
+}
+
+.invite-link {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  font-weight: 800;
+  color: rgb(1, 211, 211);
+  transition: all 0.3s ease;
+}
+
+.invite-link:hover {
+  color: rgb(1, 223, 223);
+}
